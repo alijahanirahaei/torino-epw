@@ -16,10 +16,12 @@ Alenia: (45.0447, 7.3639)
 Caselle: (45.1805, 7.6480) 
 
 Rural stations: Venaria La Mandria (large green park outside the city area); Bauducchi (countryside); Caselle (Airport). 
+
 Urban stations are: Giardini Reali (urban green area within the city center); Reiss Romoli (urban suburbs); Via della Consolata (city center); Alenia (urban suburbs).
 
 
 Acknowledgments:
+
 Authors thanks the Regional Agency for the Protection of the Environment of Piedmont Region (Arpa Piemonte) for the raw data used in this dataset.
 This project is part of the URBAN GENERATION project (PRIN 2022 PNRR program -  CUP D53D23020090001), funded by European Union - NextGeneratio EU ",  MUR –Ministero dell’Università e della Ricerca “Bando PRIN 2022 PNRR” - D.D.  n. 1409 del 14-9-2022" 
 
