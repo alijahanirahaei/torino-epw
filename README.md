@@ -1,4 +1,5 @@
 This EPW (EnergyPlus Weather) file repository has been developed within the URBAN GENERATION research project (PRIN-PNRR 2022) by the ETD research group, POLITECNICO di TORINO, Dep. Architecture & Design in collaboration with the CIMA Foundation. 
+
 Authors: Ali Jahanirahaei (POLITO), Massimo Milelli (CIMA Foundation), Giacomo Chiesa (P.I.)(POLITO)
 
 The files are TMY (Typical Meteorological Years) computed on the base of a 10-year repository dataset (ARPA Piemonte data freely available), i.e. 2014-2023, in line with ISO 15927-4 methodology.
