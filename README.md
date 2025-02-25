@@ -7,13 +7,13 @@ Here below are reported the names and the geographical coordinates of the meteor
 
 Locations: Torino, To, Piedmont, Italy 
 Weather stations: 
-Venaria La Mandria: (45.103, 7.3333)  
-Bauducchi: (44.5736, 7.4231)  
-Giardini Reali: (45.0422, 7.4135)  
-Reiss Romoli: (45.0645, 7.4015)  
-Via Della Consolata: (45.0433, 7.4042)  
-Alenia: (45.0447, 7.3639)  
-Caselle: (45.1805, 7.6480) 
+Venaria La Mandria: (45.1750, 7.5592)
+Bauducchi: (44.9600, 7.7086)
+Giardini Reali: (45.0717, 7.6919)
+Reiss Romoli: (45.1125, 7.6708)
+Via Della Consolata: (45.0758, 7.6783)
+Alenia: (45.0789, 7.6103)
+Caselle: (45.1856, 7.6508)
 
 Rural stations: Venaria La Mandria (large green park outside the city area); Bauducchi (countryside); Caselle (Airport). 
 Urban stations are: Giardini Reali (urban green area within the city center); Reiss Romoli (urban suburbs); Via della Consolata (city center); Alenia (urban suburbs).
